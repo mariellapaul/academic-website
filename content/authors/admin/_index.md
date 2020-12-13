@@ -70,8 +70,8 @@ email: "mariella.paul@uni-goettingen.de"
 highlight_name: true
 ---
 
-I'm a researcher at the Psychology of Language Group, led by Nivedita Mani, based at University of Göttingen. In my research, I investigate children's word learning in an active learning framework. In other words, how can children themselves actively shape which words they learn, for example through their interests. I am also interested in how open science practices can help us improve research practices in infant and EEG research.
+I'm a researcher at University of Göttingen, within the Psychology of Language Group, which is led by Nivedita Mani. In my research, I investigate children's word learning in an active learning framework. In other words, I investigate how children can actively shape which words they learn, for example through their curiostiy and interests. I am also interested in how open science practices can help us improve research practices in infant and EEG research.
 
 I aim to answer these research questions with a combination of methods, including EEG, online studies, and meta-scientific approaches. I strive to make my research open, transparent, and reproducible, by incorporating open science practices in my research.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
