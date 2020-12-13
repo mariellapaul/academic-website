@@ -24,6 +24,7 @@ interests:
 - Curiosity-driven learning
 - Meta-science
 - Open science
+- ...
 
 # Education to show in About widget
 education:
