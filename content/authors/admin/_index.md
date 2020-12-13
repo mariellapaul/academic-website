@@ -1,39 +1,42 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Mariella Paul
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Göttingen
+  url: https://www.uni-goettingen.de/
+- name: Research Group Psychology of Language
+  url: https://www.psych.uni-goettingen.de/en/lang?set_language=en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a postdoctoral researcher at University of Göttingen. My interests include word learning, curiosity-driven learning, open science, and meta-science.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Word learning
+- Curiosity-driven learning
+- Meta-science
+- Open science
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  #- course: PhD in Psychology
+  #  institution: MPI for Human Cognitive and Brain Sciences
+  #  year: 2021
+  - course: MSc in Experimental and clinical linguistics
+    institution: University of Potsdam
+    year: 2016
+  - course: BSc in Cognitive Science
+    institution: Osnabrück Univsersity
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,33 +48,30 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/mariella_n_paul
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=ERTl9wgAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/mariellapaul/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+ #- icon: cv
+ #  icon_pack: ai
+ #  link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "mariella.paul@uni-goettingen.de"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a researcher at the Psychology of Language Group, led by Nivedita Mani, based at University of Göttingen. In my research, I investigate children's word learning in an active learning framework. In other words, how can children themselves actively shape which words they learn, for example through their interests. I am also interested in how open science practices can help us improve research practices in infant and EEG research.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I aim to answer these research questions with a combination of methods, including EEG, online studies, and meta-scientific approaches. I strive to make my research open, transparent, and reproducible, by incorporating open science practices in my research.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
