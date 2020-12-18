@@ -16,12 +16,13 @@ organizations:
   url: https://www.psych.uni-goettingen.de/en/lang?set_language=en
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a postdoctoral researcher at University of Göttingen. My interests include word learning, curiosity-driven learning, open science, and meta-science.
+bio: I am a postdoctoral researcher at University of Göttingen. My interests include developmental cognitive neuroscience, active learning, open science, and meta-science.
 
 # Interests to show in About widget
 interests:
-- Word learning
-- Curiosity-driven learning
+- Developmental cognitive neuroscience
+- Early language acquisition
+- Active learning
 - Meta-science
 - Open science
 
